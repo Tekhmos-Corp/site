@@ -1,0 +1,5 @@
+{
+    "name": "Tekhmos Sote",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [80]
+}
