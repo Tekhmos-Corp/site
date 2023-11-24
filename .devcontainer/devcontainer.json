@@ -1,6 +1,0 @@
-{
-    "name": "tekhsite",
-    "dockerFile": "Dockerfile",
-    "forwardPorts": [80],
-    "mounts": ["source=${localWorkspaceFolder},target=/usr/share/nginx/html,type=bind"]
-}
